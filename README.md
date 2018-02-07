@@ -1,5 +1,5 @@
-# network-laterncy-metrics
-laterncy-metrics of networking between two servers with iperf tool
+# network-latency-metrics
+latency-metrics of networking between two servers with iperf tool
 
 ## Get Started
 
